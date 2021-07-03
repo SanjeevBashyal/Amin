@@ -1,5 +1,6 @@
 .header{
-    position: fixed;
+    position: relative;
     width: 100%;
     text-align: center;
+    overflow: hidden;
 }

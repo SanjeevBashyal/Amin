@@ -1,5 +1,5 @@
 .aminDesign{
-    position: absolute;
+    position: relative;
     top:10%;
     width:100%;
     text-align: center;
@@ -11,5 +11,3 @@
     border: 1px solid black;
     border-radius: 50%;
 }
-
-

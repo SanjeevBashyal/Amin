@@ -1,0 +1,18 @@
+.Footer{
+    position: absolute;
+    bottom: 0%;
+    right:0%;
+    /* width:100%; */
+    justify-content: right;
+    overflow: hidden;
+    display: flex;
+}
+
+.copyright{
+    float: left;
+}
+
+.logo_footer{
+    float: right;
+    overflow: hidden;
+}

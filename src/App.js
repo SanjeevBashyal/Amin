@@ -1,12 +1,10 @@
 import './App.css';
 // import HeaderClass from './Components/HeaderClass'
-import Header from './Components/Header'
-import AminInput from './Components/AminInput'
+import Footer from './Components/Footer/Footer'
 function App() {
   return (
     <div className="App">
-      <Header />
-      <AminInput/>
+      <Footer/>
     </div>
   );
 }
